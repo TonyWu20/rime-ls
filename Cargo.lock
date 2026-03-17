@@ -523,9 +523,8 @@ dependencies = [
 
 [[package]]
 name = "librime-sys"
-version = "0.4.0"
-source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "a2c0d2e5f3117b57dc2bd835c2a97d90914b35b63790f2827d36408758e1be25"
+version = "0.1.0"
+source = "git+https://github.com/TonyWu20/librime-sys#61322816fb8887aa91771e8931430da38f314161"
 dependencies = [
  "bindgen",
 ]
